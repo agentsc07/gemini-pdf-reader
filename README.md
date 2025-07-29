@@ -5,14 +5,6 @@ Instantly transform dense, complex research papers into understandable and inter
 
 ---
 
-## 🚀 Live Demo
-
-Watch a full demonstration of the workflow, from uploading a PDF to interacting with the AI-powered analysis.
-
-![AI PDF Assistant Demo GIF](<assets/demo.gif>)
-
----
-
 ## ✨ Core Features
 
 The Reader aids in understanding the paper easily and efficiently.
